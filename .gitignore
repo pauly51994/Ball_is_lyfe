@@ -120,3 +120,7 @@ Thumbs.db
 
 # config file
 config.py
+
+# ignore pickle files
+*.pickle
+game_log_history.pickle
