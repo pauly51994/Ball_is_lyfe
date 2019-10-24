@@ -124,3 +124,7 @@ config.py
 # ignore pickle files
 *.pickle
 game_log_history.pickle
+
+# ignore images
+*.gif
+*.png
