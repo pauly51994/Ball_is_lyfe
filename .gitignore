@@ -125,9 +125,5 @@ config.py
 *.pickle
 game_log_history.pickle
 
-# ignore images
-*.gif
-*.png
-
 # ignore python scripts for now
 *.py
